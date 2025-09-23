@@ -1,22 +1,22 @@
 {
     "TOPCARD": {
-        "WELCOME": "Welcome to {{.constants.GLOBAL_PROD_NAME}}, running on [{{.config.system_hostname.value}}]",
-        "BUTTON_LOGOUT": "LOGOUT"
+        "WELCOME": "Willkommen bei {{.constants.GLOBAL_PROD_NAME}}, betrieben auf [{{.config.system_hostname.value}}]",
+        "BUTTON_LOGOUT": "ABMELDEN"
     },
     "MENU": {
         "SYSTEM": "System",
         "AUDIO": "Audio",
-        "NETWORK": "Network",
+        "NETWORK": "Netzwerk",
         "DISPLAY": "Display",
-        "REMOTE": "Remote",
-        "ADVANCED": "Advanced",
+        "REMOTE": "Fernbedienung",
+        "ADVANCED": "Erweitert",
         "SERVICES": "Services",
         "INFORMATION": "Information",
-        "DEVICES": "Devices"
+        "DEVICES": "Geräte"
     },
     "GENERAL": {
-        "BUTTON_APPLY": "Apply",
-        "BUTTON_RESET": "Reset"
+        "BUTTON_APPLY": "Anwenden",
+        "BUTTON_RESET": "Zurücksetzen"
     },
     "SYSTEM": {
         "INTRO_TEXT": "This section contains the basic settings for {{.constants.GLOBAL_PROD_NAME}} that are required for it to function as an endpoint.",
