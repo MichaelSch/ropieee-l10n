@@ -138,17 +138,17 @@
         "DISK_SIZE": "Disk Size"
     },
     "DEVICES": {
-        "INTRO_TEXT": "This section shows all discovered {{.constants.GLOBAL_PROD_NAME}} devices in your network.",
+        "INTRO_TEXT": "Dieser Bereich listet alle erkannten {{.constants.GLOBAL_PROD_NAME}} Geräte in deinem Netzwerk.",
         "TABLE_HDR_NAME": "Name",
-        "TABLE_HDR_ADDR": "IP Address",
-        "TABLE_HDR_TEMP": "Temperature",
+        "TABLE_HDR_ADDR": "IP-Adresse",
+        "TABLE_HDR_TEMP": "Temperatur",
         "TABLE_HDR_UPTIME": "Uptime",
         "TABLE_HDR_VERSION": "Version",
-        "TABLE_HOST_ME": "ME"
+        "TABLE_HOST_ME": "ICH"
     },
     "DOWN": {
-        "LINE_1": "Your device is rebooting. This takes about a minute before the webpage is available again.",
-        "LINE_2": "This page will automatically refresh when the device is up again.",
-        "BUTTON_RELOAD": "Reload"
+        "LINE_1": "Dein Gerät startet neu. Es dauert etwa eine Minute, bis die Webseite wieder verfügbar ist.",
+        "LINE_2": "Diese Seite wird automatisch aktualisiert, wenn das Gerät bereit ist.",
+        "BUTTON_RELOAD": "Neu laden"
     }
 }
